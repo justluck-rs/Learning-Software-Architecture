@@ -1,0 +1,10 @@
+{
+  "files.associations": {
+    ".sequelizerc": "javascript",
+    ".stylelintrc": "json",
+    "*.ts": "typescript",
+    ".env.*": "dotenv",
+    ".prettierrc": "json",
+    "plyconfig.json": "jsonc"
+  }
+}
